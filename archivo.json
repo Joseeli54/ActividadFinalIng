@@ -1,0 +1,11 @@
+{
+  "usuarios": [
+    {
+      "cedula": "26089396",
+      "nombre": "Jose",
+      "apellido": "Barrientos",
+      "fechaUltimaCompra": "12-2-17",
+      "id": 26089396
+    }
+  ]
+}
