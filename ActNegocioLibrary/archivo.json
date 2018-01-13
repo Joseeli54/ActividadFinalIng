@@ -1,0 +1,109 @@
+{
+  "usuarios": [
+    {
+      "cedula": "25185194",
+      "nombre": "Jesus",
+      "apellido": "Alvarez",
+      "fechaUltimaCompra": "12-2-17",
+      "id": 25185194
+    },
+    {
+      "cedula": "26089396",
+      "nombre": "Elias",
+      "apellido": "Barrientos",
+      "fechaUltimaCompra": "1-1-18",
+      "id": 26089396
+    },
+    {
+      "cedula": "81853988",
+      "nombre": "Jose",
+      "apellido": "Padron",
+      "fechaUltimaCompra": "10-1-18",
+      "id": 81853988
+    },
+    {
+      "cedula": "26994132",
+      "nombre": "Maria",
+      "apellido": "Fernanda",
+      "fechaUltimaCompra": "No ha comprado",
+      "id": 26994132
+    },
+    {
+      "cedula": "85369842",
+      "nombre": "Jose",
+      "apellido": "Barrientos",
+      "fechaUltimaCompra": "No ha comprado",
+      "id": 85369842
+    },
+    {
+      "cedula": "25198564",
+      "nombre": "Miguel",
+      "apellido": "Ordonez",
+      "fechaUltimaCompra": "No ha comprado",
+      "id": 25198564
+    },
+    {
+      "cedula": "24895361",
+      "nombre": "Jorge",
+      "apellido": "Viloria",
+      "fechaUltimaCompra": "No ha comprado",
+      "id": 24895361
+    },
+    {
+      "cedula": "24934567",
+      "nombre": "Jose",
+      "apellido": "Rodolfo",
+      "fechaUltimaCompra": "No ha comprado",
+      "id": 24934567
+    },
+    {
+      "cedula": "25185194",
+      "nombre": "Alejandro",
+      "apellido": "Escalante",
+      "fechaUltimaCompra": "No ha comprado",
+      "id": 25185194
+    },
+    {
+      "cedula": "23456754",
+      "nombre": "Jose",
+      "apellido": "Miguel",
+      "fechaUltimaCompra": "No ha comprado",
+      "id": 23456754
+    },
+    {
+      "cedula": "22345678",
+      "nombre": "Jose",
+      "apellido": "Elias",
+      "fechaUltimaCompra": "No ha comprado",
+      "id": 22345678
+    },
+    {
+      "cedula": "26089396",
+      "nombre": "Jose",
+      "apellido": "Elias",
+      "fechaUltimaCompra": "No ha comprado",
+      "id": 26089396
+    },
+    {
+      "cedula": "26089396",
+      "nombre": "Jose",
+      "apellido": "Elias",
+      "fechaUltimaCompra": "No ha comprado",
+      "id": 26089396
+    },
+    {
+      "cedula": "26089396",
+      "nombre": "Jose",
+      "apellido": "Elias",
+      "fechaUltimaCompra": "No ha comprado",
+      "id": 26089396
+    },
+    {
+      "cedula": "26089396",
+      "nombre": "Jose",
+      "apellido": "Elias",
+      "fechaUltimaCompra": "No ha comprado",
+      "id": 26089396
+    }
+  ]
+}
