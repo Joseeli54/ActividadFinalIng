@@ -7,8 +7,11 @@ package negocio;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
-
-public interface InterfazDAO {
+                                ////////////////////////////////////////////////////////////////////////////////
+public interface InterfazDAO { // Interface que contiene los metodos que seran usados por clases concretas   //
+	                          // Para poder obtener datos y guardar en diferentes formatos                  //
+	                         //            en este caso los guardare en el formato json                    //
+	                        ////////////////////////////////////////////////////////////////////////////////
     
     public Cliente[] getClientsEmpresa() throws IOException;
     public void setClientEmpresa(String nombre, 

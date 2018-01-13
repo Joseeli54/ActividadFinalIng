@@ -8,8 +8,11 @@ package negocio;
 /**
  *
  * @author Elias Barrientos
- */
-public abstract class LogicaNegocio {
+ */                                    /////////////////////////////////////////////////////////////////////////////
+public abstract class LogicaNegocio { //Clase abstracta que contiene los metodos que usaran diferentes empresas  //
+	                                 // Para implementar su propia logica de negocios, este solo cuenta con     //
+	                                //                  tres metodos, pero podrian ser mas                     //
+	                               /////////////////////////////////////////////////////////////////////////////
     
     public abstract void register_Client(String nombre, 
                                          String apellido, 

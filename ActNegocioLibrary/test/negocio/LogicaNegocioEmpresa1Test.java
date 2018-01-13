@@ -18,7 +18,7 @@ public class LogicaNegocioEmpresa1Test {
     LogicaNegocioEmpresa1 instance;
     
     @Before
-    public void setUp() {
+    public void setUp() {//Se crea la instancia de la logica de negocio de la empresa
           instance = new LogicaNegocioEmpresa1();
     }
 
@@ -31,7 +31,7 @@ public class LogicaNegocioEmpresa1Test {
         String nombre = "Jose";
         String apellido = "Elias";
         String cedula = "26089396";
-        instance.register_Client(nombre, apellido, cedula);
+        instance.register_Client(nombre, apellido, cedula); // Se comprueba que se cree un usuario
     }
 
     /**
@@ -43,7 +43,7 @@ public class LogicaNegocioEmpresa1Test {
         int id = 26089396;
         boolean expResult = true;
         boolean result = instance.verify_Clients(id);
-        assertEquals(expResult, result);
+        assertEquals(expResult, result); // Si el resultado es igual al resultado predicho
     }
 
     /**
@@ -53,7 +53,7 @@ public class LogicaNegocioEmpresa1Test {
     public void testConsulta_client() {
         System.out.println("Consulta_client");
         int id = 26089396;
-        instance.Consulta_client(id);
+        instance.Consulta_client(id); // Se crea la instancia de la consulta de usuario
     }
     
     @After

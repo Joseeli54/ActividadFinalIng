@@ -11,14 +11,13 @@ import java.util.Date;
  *
  * @author Elias Barrientos
  */
-public class Cliente {
+public class Cliente { // Clase que contiene los datos del cliente que se usara en la base de datos
     
-    
-    String cedula;
-    String nombre;
-    String apellido;
-    String fechaUltimaCompra;
-    int id;
+    String cedula; // Cedula de identidad del usuario
+    String nombre; // Nombre de usuario
+    String apellido; // Apellido del usuario
+    String fechaUltimaCompra; // Fecha de la ultima compra que se realizo
+    int id; // Identificador que sera el numero de cedula
 
     public Cliente(String cedula, String nombre, 
                            String apellido, String fechaUltimaCompra, int id) {
