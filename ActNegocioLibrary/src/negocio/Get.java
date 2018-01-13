@@ -9,8 +9,8 @@ package negocio;
  *
  * @author Elias Barrientos
  */
-public class Get {
-    Cliente[] usuarios;
+public class Get { // La clase get que se usuara en ImpDAOJson
+    Cliente[] usuarios; // Aqui se guarda la clase Cliente que se leera en el gson
     
     public Get(){}
 
